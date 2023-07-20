@@ -7,7 +7,7 @@ With this system monitoring setup, users can track and analyze CPU usage trends,
 
 ## Visual Example
 
-For a visual example of the project in action, you can refer to this [link](https://drive.google.com/file/d/1I7SYzn8hgakrmYxNI11DsGa6be39YMVw/view?usp=drive_link). The example showcases the project's features and functionality in a video format.
+For a visual example of the project in action, you can refer to this [link](https://drive.google.com/file/d/1I7SYzn8hgakrmYxNI11DsGa6be39YMVw/view?usp=sharing). The example showcases the project's features and functionality in a video format.
 
 
 ## Setup and Configuration:
